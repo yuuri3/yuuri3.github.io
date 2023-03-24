@@ -5,16 +5,16 @@
 body {
   color: #FFFAEB;
   background-color: #178DC8;
-  
-  @media screen and (max-width: 768px) {
-    p{
+}
+
+@media screen and (max-width: 768px) {
+    body{
        font size: 20px
      }
  }
  
  @media screen and (max-width: 480px) {
-    p{
+    body{
         font size: 40px
      }
  }
-}
