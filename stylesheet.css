@@ -6,3 +6,41 @@ body {
   color: #FFFAEB;
   background-color: #178DC8;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10px 5px;
+}
+
+.characterinfo {
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  font-size: 0;
+  text-align: center;
+}
+
+li {
+  margin: 5px;
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+figcaption {
+  padding-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
