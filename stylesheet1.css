@@ -7,14 +7,18 @@ body {
   background-color: #178DC8;
 }
 
+.px {
+  font size: 1rem
+}
+
 @media screen and (max-width: 768px) {
-    .px{
+    {
        font size: 20px;
      }
  }
  
  @media screen and (max-width: 480px) {
-    .px{
+    {
         font size: 40px;
      }
  }
