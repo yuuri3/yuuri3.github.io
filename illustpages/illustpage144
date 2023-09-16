@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Progate</title>
+  <link rel="stylesheet" href="stylesheetillust.css">
+  <meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="characterinfo">144 杜野凛世</h1>
+    <ul class="gallery">
+      <li class="item">
+        <figure>
+          <img src="../illust/144_杜野凛世.png">
+          <figcaption>
+            米津玄師の『春雷』を杜野凛世にのせた
+            <a href="https://www.nicovideo.jp/watch/sm34924194?ref=search_key_video&playlist=eyJ0eXBlIjoic2VhcmNoIiwiY29udGV4dCI6eyJrZXl3b3JkIjoiXHU2NjI1XHU5NmY3Iiwic29ydEtleSI6Imxhc3RDb21tZW50VGltZSIsInNvcnRPcmRlciI6ImRlc2MiLCJwYWdlIjoxLCJwYWdlU2l6ZSI6MzJ9fQ&ss_pos=7&ss_id=5eab879f-21d2-4963-afec-e96134ea90bb">
+            mad動画</a>
+            に着想した絵。<br>
+            背景の文字は『春雷』の歌詞の一部「あなたはふっとやさしく笑ったんだ」とハンドルネーム「フウセンウナギ科フクロウナギ属」の中国語訳<br>
+            <br>
+            参考<br>
+            <a href="https://www.youtube.com/watch?v=zkNzxsaCunU">
+            春雷(youtube)</a>
+          </figcaption>
+        </figure>
+      </li>
+    </ul>
+  </div>
+</body>
+
+</html>
